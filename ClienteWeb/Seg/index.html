@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Movimientos</title>
+    <link rel="icon" title="img/jpg"  href="img/carr.ico">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>-->
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/creative.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+        #homeHeading {
+          text-shadow: 3px 3px 5px #f00,
+                       6px 6px 5px #0f0,
+                       9px 9px 5px #00f;
+        }
+
+        #titulo1 {
+          text-shadow: 5px 5px 5px #aaa;
+          color: blue;
+        }
+    </style>
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top"style="color: #0277bd;">Inicio</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"style="color: #0277bd;">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about"style="color: #0277bd;">Buscar</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact"style="color: #0277bd;">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1 id="homeHeading">Packet Tracking</h1>
+                <hr>
+                <h3 id="titulo1">Empresa repartidora de paquetes.</h3>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll" style="background-color: #0277bd;">Buscar codigo</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="bg-primary" id="about" style="background-color: #0277bd;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Codigo:</h2>
+                    <div class="col-lg-8 col-lg-offset-2"><input id="cod" class="form-control"  onkeypress="return numeros(event)" type="text" id="Cod" placeholder="001"></div></br></br>
+                    <hr class="light">
+                    <div><a href="#services" onclick="rMovimientos()" class="page-scroll btn btn-default btn-xl sr-button">Buscar</a></div>
+                    <hr class="light">
+                    <p class="text-faded">Los movimientos se muestran a continuacion:</p>
+                    <div class="table-responsive">
+                        <table id="t_mov" class="table" style="border-radius: 10%;">
+                            <tr class="" style:"background-color: #ff6e40;">
+                                <td>fecha</td>
+                                <td>observaciones</td>
+                                <td>Num de pedido</td>
+                                <td>status</td>
+                                <td>lugar</td>
+                                <td>producto</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">¿Tiene alguna duda?</h2>
+                    <hr class="primary">
+                    <p>Si tiene alguna duda, por favor comuniquese con nosostros.</p>
+                    <h4 class="section-heading">Los datos de contacto estan a continuacion:</h4>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                    <p>469-456-6710</p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                    <p><a href="mailto:HRD@uppenjamo.edu.mx.com" style="color: #0277bd;">HRD@uppenjamo.edu.mx.com</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/creative.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+
+    <script type="text/javascript">
+        var codigo = document.getElementById('Cod');
+        function algo()
+        {
+            //algo
+            alert(codigo.value);
+        }
+
+        function numeros(e) { // 1
+            tecla = (document.all) ? e.keyCode : e.which; // 2
+            if (tecla==8) return true; // 3
+            patron = /[0-9]/; // Solo acepta números// 4
+            te = String.fromCharCode(tecla); // 5
+            return patron.test(te); // 6
+        }
+
+        function validar(e) { // 1
+            tecla = (document.all) ? e.keyCode : e.which; // 2
+            if (tecla==8) return true; // 3
+            patron =/[A-Za-z\s]/; // 4
+            te = String.fromCharCode(tecla); // 5
+            return patron.test(te); // 6
+        }
+
+        var tabMov = document.getElementById('t_mov');
+
+        function rMovimientos()
+        {
+            var codigo = document.getElementById('cod');
+
+            var SendObj = {
+                  action: 'rMovimiento',
+                  codigo: "'"+codigo.value+"'"
+              };
+              
+            var stringData = JSON.stringify(SendObj);
+            //alert(res[16]);
+            //combCarr.innerHTML += Alumno;
+
+            $.ajax({
+                    type: 'POST',
+                    //url: 'http://localhost/AOS/Seg/P&T/',
+                    url: 'http://192.168.43.81:80/P&T/',
+                    data: stringData,
+                    contentType: 'application/json',
+                    dataType: 'json',
+                    async: false,
+                    success: function (data) {
+                      var stringData2 = JSON.stringify(data);
+                      var algo = JSON.parse(stringData2);
+                      
+                      if (data.message == "Faltan parámetros" || data.message == "Error en la acción ") {
+                        alert(data.message);
+                      }
+                      else
+                      {
+                          var table = '';
+                          tabMov.innerHTML = '<tr class="" style:"background-color: #ff6e40;"><td>fecha</td><td>observaciones</td><td>Num de pedido</td><td>status</td><td>lugar</td><td>producto</td></tr>';
+                          var i = 0;
+                          for(i = 0; i < algo.length; i++)
+                          {
+                            table += "<tr class='' style:'background-color: #ff6e40;''><td>"+algo[i].fecha+"</td><td>"+algo[i].observaciones+"</td><td>"+algo[i].numPedido+"</td><td>"+algo[i].status+"</td><td>"+algo[i].lugar+"</td><td>"+algo[i].producto+"</td></tr>"
+                          }
+                          tabMov.innerHTML += table;
+                      }
+                      //codigo.value = null;
+                    }
+                });
+            setTimeout("rMovimientos()",1000);
+          }
+    </script>
+
+</body>
+
+</html>

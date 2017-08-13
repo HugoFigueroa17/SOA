@@ -1,0 +1,37 @@
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.exe.config
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.exe
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.pdb
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.csprojResolveAssemblyReference.cache
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.frmMain.resources
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.Properties.Resources.resources
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.csproj.GenerateResource.Cache
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.exe
+C:\Users\bodega\Documents\Visual Studio 2015\Projects\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.pdb
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.exe.config
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.exe
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.pdb
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.exe
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.pdb
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.csprojResolveAssemblyReference.cache
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.frmMain.resources
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.Properties.Resources.resources
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.csproj.GenerateResource.Cache
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\MetroFramework.Design.dll
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\MetroFramework.dll
+F:\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.exe.config
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.exe
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.pdb
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.exe
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\AppCancioines.pdb
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\MetroFramework.Design.dll
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\MetroFramework.dll
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.csprojResolveAssemblyReference.cache
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.frmMain.resources
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.Properties.Resources.resources
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.csproj.GenerateResource.Cache
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\ConsumirServicio\ConsumirServicio\AppCancioines\obj\Debug\AppCancioines.Otras.resources
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\Paquetes\Paquetes\AppCancioines\bin\Debug\AppCancioines.exe.config
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\Paquetes\Paquetes\AppCancioines\obj\Debug\AppCancioines.exe
+C:\Users\hugo\Desktop\SOA-Arquitecturas Orientadas a Servicios\Paquetes\Paquetes\AppCancioines\obj\Debug\AppCancioines.pdb
